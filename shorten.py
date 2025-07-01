@@ -32,5 +32,5 @@ def add_link():
     links[code] = url
     return jsonify({"message": f"Link {code} hinzugefügt."}), 201
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
