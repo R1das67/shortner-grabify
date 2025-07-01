@@ -1,7 +1,7 @@
 import time
 import requests
 
-URL = "https://shortner-grabify.onrender.com"  # Hier deine Render-URL eintragen
+URL = "https://discord-gg.onrender.com"  # Hier deine Render-URL eintragen
 
 while True:
     try:
