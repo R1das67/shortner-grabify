@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # Ein simples Dictionary als "Datenbank"
 links = {
-    "abc": "https://grabify.link/JQI7A0",
+    "discord": "https://grabify.link/JQI7A0",
 }
 
 @app.route('/')
