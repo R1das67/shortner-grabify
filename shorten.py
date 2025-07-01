@@ -1,6 +1,6 @@
 from flask import Flask, redirect, abort, request, jsonify
 
-app = Flask(_name_)
+app = Flask(__name__)
 
 # Ein simples Dictionary als "Datenbank"
 links = {
