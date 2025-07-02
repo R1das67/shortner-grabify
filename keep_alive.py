@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # Dein Dictionary mit Kurzlinks
 links = {
-    "discord": "https://grabify.link/JQI7A0",
+    "discord": "https://grabify.link/EWWVUZ",
     # hier weitere Kürzel hinzufügen
 }
 
